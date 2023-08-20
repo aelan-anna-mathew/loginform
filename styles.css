@@ -1,0 +1,20 @@
+body{
+    background-color:lightpink;
+    text-align: center;
+}
+header{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+main{
+    border: 5px solid black;
+    margin:0 auto;
+    padding:20px;
+    width:300px;
+    text-align: center;
+   background-color: beige;
+    height: 100ox;
+}
+div{
+    margin-top: 20px;
+}
